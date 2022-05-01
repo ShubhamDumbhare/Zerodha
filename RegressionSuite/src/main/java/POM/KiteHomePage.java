@@ -24,7 +24,9 @@ public class KiteHomePage {
     	PageFactory.initElements(driver, this);
     }
     
-	
+	public void LogIn(String name) {
+		
+	}
 	
 
 }
